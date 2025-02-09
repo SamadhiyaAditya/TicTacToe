@@ -14,9 +14,9 @@ simple TicTacToe game msde using python
 1. First to make straight vertical,horizontal or diagonal (any one) with their symbol wins.
 2. The game ends when one player wins or the grid is full (tie).
 3. There are multiple versions:
-   TicTacToe1.py -> You vs Computer (3x3), 2p
-   TicTacToe2.py -> p1 vs p2 (3x3)(2p)
-   TicTacToe3.py -> 2p, custom board(odd)
-   TicTacToe4.py -> p1 vs p2 vs p3 (4x4)(3p)
-   TicTacToe5.py -> 3p, custom board(even)
-   TicTacToe6.py -> You vs Computer, custom board (odd), 2p
+   1. TicTacToe1.py -> You vs Computer (3x3), 2p
+   2. TicTacToe2.py -> p1 vs p2 (3x3)(2p)
+   3. TicTacToe3.py -> 2p, custom board(odd)
+   4. TicTacToe4.py -> p1 vs p2 vs p3 (4x4)(3p)
+   5. TicTacToe5.py -> 3p, custom board(even)
+   6. TicTacToe6.py -> You vs Computer, custom board (odd), 2p
